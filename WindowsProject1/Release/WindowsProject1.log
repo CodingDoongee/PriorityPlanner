@@ -1,0 +1,55 @@
+﻿  main.cpp
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(197,59): warning C4474: 'sprintf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(197,59): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(199,53): warning C4474: 'sprintf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(199,53): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(201,59): warning C4474: 'sprintf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(201,59): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(203,56): warning C4474: 'sprintf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(203,56): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(205,57): warning C4474: 'sprintf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(205,57): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(207,51): warning C4474: 'sprintf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(207,51): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(226,6): warning C4244: '=': 'double'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(268,6): warning C4244: '=': 'double'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(274,62): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(308,6): warning C4244: '=': 'double'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(56,7): warning C4101: 'str' :참조되지 않은 지역 변수입니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(52,23): warning C4101: 's32_I_ComboBox' :참조되지 않은 지역 변수입니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(543,47): warning C4474: 'sprintf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(543,47): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(584,50): warning C4474: 'sprintf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(584,50): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(601,32): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(628,32): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(661,32): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(680,32): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(499,10): warning C4101: 's32_TempPos' :참조되지 않은 지역 변수입니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(809,46): warning C4474: 'sprintf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(809,46): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(825,49): warning C4474: 'sprintf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(825,49): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(846,46): warning C4474: 'sprintf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(846,46): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(862,49): warning C4474: 'sprintf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(862,49): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(874,46): warning C4474: 'sprintf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(874,46): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(947,42): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(980,8): warning C4244: '=': 'double'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(1007,43): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(1040,9): warning C4244: '=': 'double'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(896,10): warning C4101: 's32_I' :참조되지 않은 지역 변수입니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(1136,43): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(1169,9): warning C4244: '=': 'double'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(1195,43): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(1228,9): warning C4244: '=': 'double'에서 'int32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(1266,44): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(1072,8): warning C4101: 'NumberOfBytesRead' :참조되지 않은 지역 변수입니다.
+D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\WindowsProject1\main.cpp(1073,10): warning C4101: 's32_I' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 18 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  WindowsProject1.vcxproj -> D:\Projects Folder\WinAPI Projects\WindowsProject_PriorityPlanner\Release\WindowsProject1.exe
